@@ -19,9 +19,6 @@
 
 <span style="color: #2ecc71;">Nossos desafios, elaborados profissionalmente, oferecem uma experiência prática valiosa em HTML, CSS e JavaScript. Fornecemos os designs para que você possa se concentrar na programação e observar uma grande evolução nas suas habilidades!</span>
 
-![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
-
-Live Demo: [https://main--spectacular-smakager-8eb97d.netlify.app](https://main--spectacular-smakager-8eb97d.netlify.app)
 
 
 
